@@ -19,5 +19,10 @@ public class Education extends Medicine {
 		a.physiyo();
 		a.dental();
 		a.mbbs();
+		
+		System.out.println("hi");
+		System.out.println("hello");
+		System.out.println("welcome");
+		System.out.println("123");
 	}
 }
